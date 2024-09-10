@@ -1,0 +1,11 @@
+Distance (km),Air Conditioned,Television,Food Service,Bus Fare
+204,Yes,No,Available,Luxury
+454,Yes,Yes,Available,Affordable
+62,No,Yes,Available,Luxury
+440,No,Yes,Available,Affordable
+444,Yes,No,Not Available,Affordable
+144,Yes,Yes,Available,Affordable
+490,No,Yes,Not Available,Affordable
+373,No,Yes,Available,Luxury
+200,Yes,No,Not Available,Affordable
+413,Yes,Yes,Available,Budget
